@@ -1,0 +1,13 @@
+{
+  "users":[
+   {
+     "firstname":"Soham",
+     "lastname":"Pal Choudhury",
+     "address":"Siliguri",
+     "pincode":"734006",
+     "username":"soham",
+     "email":"sohampc@gmail.com",
+     "password":"pcsoham"
+}
+ ]
+}
